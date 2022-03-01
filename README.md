@@ -1,6 +1,8 @@
 # 100 Days of Code - Python
 
-I have completed 100 Days of Code - Python course from Udemy. In this repository, you will find all the projects I made while doing this course.
+I have started 100 Days of Code - Python course from Udemy. 
+
+In this repository, you will find all the projects I made while doing this course.
 
 ## Beginner
 
