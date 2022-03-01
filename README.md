@@ -4,7 +4,7 @@ I have completed 100 Days of Code - Python course from Udemy. In this repository
 
 Beginner
 
-    Day 1: Working with Variables in Python to Manage Data
+-    [a Day 1: Working with Variables in Python to Manage Data](https://github.com/dsNikhilds/Python/tree/main/Day%201)
     Day 2: Understanding Data Types and How to Manipulate Strings
     Day 3: Control Flow and Logical Operators
     Day 4: Randomisation and Python Lists
