@@ -7,7 +7,7 @@ In this repository, you will find all the projects I made while doing this cours
 ## Beginner
 
 -    [Day 1: Working with Variables in Python to Manage Data](https://github.com/dsNikhilds/Python/tree/main/Day%201)
--    Day 2: Understanding Data Types and How to Manipulate Strings
+-    [Day 2: Understanding Data Types and How to Manipulate Strings](https://github.com/dsNikhilds/Python/tree/main/Day%202)
 -    Day 3: Control Flow and Logical Operators
 -    Day 4: Randomisation and Python Lists
 -    Day 5: Python Loops
