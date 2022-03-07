@@ -10,8 +10,8 @@ In this repository, you will find all the projects I made while doing this cours
 -    [Day 2: Understanding Data Types and How to Manipulate Strings](https://github.com/dsNikhilds/Python/tree/main/Day%202)
 -    [Day 3: Control Flow and Logical Operators](https://github.com/dsNikhilds/Python/tree/main/Day%203)
 -    [Day 4: Randomisation and Python Lists](https://github.com/dsNikhilds/Python/tree/main/Day%204)
--    [Day 5: Python Loops](https://github.com/dsNikhilds/Python/tree/main/Day%205)
--    [Day 6: Python Functions & Karel](https://github.com/dsNikhilds/Python/tree/main/Day%206)
+-    [Day 5: Python For Loop](https://github.com/dsNikhilds/Python/tree/main/Day%205)
+-    [Day 6: Python Functions & While loop](https://github.com/dsNikhilds/Python/tree/main/Day%206)
 -    Day 7: Hangman
 -    Day 8: Function Parameters & Caesar Cipher
 -    Day 9: Dictionaries, Nesting and the Secret Auction
