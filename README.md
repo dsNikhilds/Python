@@ -15,7 +15,7 @@ In this repository, you will find all the projects I made while doing this cours
 -    [Day 7: Hangman](https://github.com/dsNikhilds/Python/tree/main/Day%207)
 -    [Day 8: Function Parameters & Caesar Cipher](https://github.com/dsNikhilds/Python/tree/main/Day%208)
 -    [Day 9: Dictionaries, Nesting and the Secret Auction](https://github.com/dsNikhilds/Python/tree/main/Day%209)
--    Day 10: Function Return Values and the Calculator Project
+-    [Day 10: Function Return Values and the Calculator Project](https://github.com/dsNikhilds/Python/tree/main/Day%2010)
 -    Day 11: Blackjack Capstone Project
 -    Day 12: Scope and Namespacing in Python
 -    Day 13: Debugging: How to Find and Fix Errors in your Code
