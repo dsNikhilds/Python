@@ -23,8 +23,8 @@ In this repository, you will find all the projects I made while doing this cours
 
 ## Intermediate
 
--    Day 15: Local Development Environment Setup & the Coffee Machine Project
--    Day 16: Object Oriented Programming (OOP)
+-    [Day 15: Local Development Environment Setup & the Coffee Machine Project](https://github.com/dsNikhilds/Python/tree/main/Day15)
+-    [Day 16: Object Oriented Programming (OOP)](https://github.com/dsNikhilds/Python/tree/main/Day16)
 -    Day 17: The Quiz Project & the Benefits of OOP
 -    Day 18: Turtle Graphics and GUIs
 -    Day 19: Instances, State and Higher Order Functions
