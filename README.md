@@ -27,10 +27,10 @@ In this repository, you will find all the projects I made while doing this cours
 -    [Day 16: Object Oriented Programming (OOP)](https://github.com/dsNikhilds/Python/tree/main/Day16)
 -    [Day 17: The Quiz Project & the Benefits of OOP](https://github.com/dsNikhilds/Python/tree/main/Day17)
 -    [Day 18: Turtle Graphics and GUIs](https://github.com/dsNikhilds/Python/tree/main/Day18)
--    Day 19: Instances, State and Higher Order Functions
--    Day 20: Build the Snake Game Part 1: Animation & Coordinates
--    Day 21: Build the Snake Game Part 2: Inheritance & List Slicing
--    Day 22: Build Pong: The Famous Arcade Game
+-    [Day 19: Instances, State and Higher Order Functions](https://github.com/dsNikhilds/Python/tree/main/Day19)
+-    [Day 20: Build the Snake Game Part 1: Animation & Coordinates](https://github.com/dsNikhilds/Python/tree/main/Day20)
+-    [Day 21: Build the Snake Game Part 2: Inheritance & List Slicing](https://github.com/dsNikhilds/Python/tree/main/Day21)
+-    [Day 22: Build Pong: The Famous Arcade Game](https://github.com/dsNikhilds/Python/tree/main/Day22)
 -    Day 23: The Turtle Crossing Capstone Project
 -    Day 24: Files, Directories and Paths
 -    Day 25: Working with CSV Data and the Pandas Library
