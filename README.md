@@ -31,8 +31,8 @@ In this repository, you will find all the projects I made while doing this cours
 -    [Day 20: Build the Snake Game Part 1: Animation & Coordinates](https://github.com/dsNikhilds/Python/tree/main/Day20)
 -    [Day 21: Build the Snake Game Part 2: Inheritance & List Slicing](https://github.com/dsNikhilds/Python/tree/main/Day21)
 -    [Day 22: Build Pong: The Famous Arcade Game](https://github.com/dsNikhilds/Python/tree/main/Day22)
--    Day 23: The Turtle Crossing Capstone Project
--    Day 24: Files, Directories and Paths
+-    [Day 23: The Turtle Crossing Capstone Project](https://github.com/dsNikhilds/Python/tree/main/Day23)
+-    [Day 24: Files, Directories and Paths](https://github.com/dsNikhilds/Python/tree/main/Day24)
 -    Day 25: Working with CSV Data and the Pandas Library
 -    Day 26: List Comprehension & the NATO Pilot's Alphabet
 -    Day 27: Tkinter, *args, **kwargs and Creating GUI Programs
