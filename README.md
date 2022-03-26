@@ -33,8 +33,8 @@ In this repository, you will find all the projects I made while doing this cours
 -    [Day 22: Build Pong: The Famous Arcade Game](https://github.com/dsNikhilds/Python/tree/main/Day22)
 -    [Day 23: The Turtle Crossing Capstone Project](https://github.com/dsNikhilds/Python/tree/main/Day23)
 -    [Day 24: Files, Directories and Paths](https://github.com/dsNikhilds/Python/tree/main/Day24)
--    Day 25: Working with CSV Data and the Pandas Library
--    Day 26: List Comprehension & the NATO Pilot's Alphabet
+-    [Day 25: Working with CSV Data and the Pandas Library](https://github.com/dsNikhilds/Python/tree/main/Day25)
+-    [Day 26: List Comprehension & the NATO Pilot's Alphabet](https://github.com/dsNikhilds/Python/tree/main/Day26)
 -    Day 27: Tkinter, *args, **kwargs and Creating GUI Programs
 -    Day 28: Tkinter, Dynamic Typing and the Pomodoro GUI Application
 -    Day 29: Building a Password Manager GUI App with Tkinter
