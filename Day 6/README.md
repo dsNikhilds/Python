@@ -1,5 +1,5 @@
 # Hangman Game
 
-Day 6 - I learned about while loops in python and designed a hangman project.
+Day 6 - I learned about while loops in python I learned about how to break the project into chunks and made a flowchart to build the hangman game.
 
-In this game, we try to guess the correct letters of a word and for every wrong guess, we loose a life.
+![](hangman.gif)
