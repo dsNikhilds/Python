@@ -53,7 +53,7 @@ In this repository, you will find all the projects I made while doing this cours
 -    Day 39: Capstone Part 1: Flight Deal Finder
 -    Day 40: Capstone Part 2: Flight Club!
 -    [Day 41: Introduction to HTML](https://github.com/dsNikhilds/Python/tree/main/Day41)
--    Day 42: Intermediate HTML
+-    [Day 42: Intermediate HTML](https://github.com/dsNikhilds/Python/tree/main/Day42)
 -    Day 43: Introduction to CSS
 -    Day 44: Intermediate CSS
 -    Day 45: Web Scraping with Beautiful Soup
