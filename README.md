@@ -56,7 +56,7 @@ In this repository, you will find all the projects I made while doing this cours
 -    [Day 42: Intermediate HTML](https://github.com/dsNikhilds/Python/tree/main/Day42)
 -    Day 43: Introduction to CSS
 -    Day 44: Intermediate CSS
--    Day 45: Web Scraping with Beautiful Soup
+-    [Day 45: Web Scraping with Beautiful Soup](https://github.com/dsNikhilds/Python/tree/main/Day45)
 -    Day 46: Create a Spotify Playlist using the Musical Time Machine
 -    Day 47: Create an Automated Amazon Price Tracker
 -    Day 48: Selenium Webdriver and Game Playing Bot
