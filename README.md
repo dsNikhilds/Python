@@ -54,8 +54,8 @@ In this repository, you will find all the projects I made while doing this cours
 -    Day 40: Capstone Part 2: Flight Club!
 -    [Day 41: Introduction to HTML](https://github.com/dsNikhilds/Python/tree/main/Day41)
 -    [Day 42: Intermediate HTML](https://github.com/dsNikhilds/Python/tree/main/Day42)
--    Day 43: Introduction to CSS
--    Day 44: Intermediate CSS
+-    [Day 43: Introduction to CSS](https://github.com/dsNikhilds/Python/tree/main/Day43)
+-    [Day 44: Intermediate CSS](https://github.com/dsNikhilds/Python/tree/main/Day44)
 -    [Day 45: Web Scraping with Beautiful Soup](https://github.com/dsNikhilds/Python/tree/main/Day45)
 -    Day 46: Create a Spotify Playlist using the Musical Time Machine
 -    Day 47: Create an Automated Amazon Price Tracker
