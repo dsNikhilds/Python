@@ -1,8 +1,8 @@
-# 100 Days of Code - Python
+# 30 Days of Coding - Python
 
-I have started 100 Days of Code - Python course from Udemy. 
+I have challenged myself for 30 Days of Coding - Python. In thiis, I will code daily for next 30 days to learn python.
 
-In this repository, you will find all the projects I made while doing this course.
+In this repository, you will find all the projects I made during this challenge.
 
 ## Beginner
 
